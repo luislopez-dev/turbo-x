@@ -14,6 +14,7 @@ Analizador lexico implementado con Java y JFlex.
 8. [Manual técnico](#manual-tecnico)
 9. [Formato de entrada y salida](#formato-de-entrada-y-salida)
 10. [Limitaciones conocidas](#limitaciones-conocidas)
+10. [Demostracion](#demostracion)
 
 ## Proposito
 
