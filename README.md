@@ -161,4 +161,5 @@ Archivo de texto plano con codigo fuente TurboX.
 - Esta entrega corresponde a la Parte 1: cubre analisis lexico y no incluye parser sintactico ni analisis semantico.
 - El manejo de comentarios no se encuentra definido en esta version base.
 
+[screen-capture (2).webm](https://github.com/user-attachments/assets/48571ab1-75eb-4747-998f-3955327ffc2b)
 
