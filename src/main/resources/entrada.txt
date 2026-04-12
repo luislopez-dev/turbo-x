@@ -1,0 +1,35 @@
+INICIO
+FUNCION sumar(Entero a, Entero b)
+    RETORNAR a + b
+FIN
+
+Entero contador
+Real promedio
+Cadena mensaje
+Caracter letra
+Entero resultado
+Persona persona1
+
+SI contador > 10 ENTONCES
+    promedio = 4.5
+SINO
+    promedio = 2 ** 3
+SI contador == 2 ENTONCES
+    mensaje = "Hola TurboX"
+SI contador != 0 ENTONCES
+    contador = contador + 1 - 2 * 3 / 4 ^ 2
+
+resultado = sumar(10, 20)
+
+CLASE Persona {
+    ATRIBUTO publico Entero edad
+    ATRIBUTO privado Cadena nombre
+    ATRIBUTO protected Real salarioBase
+}
+
+persona1 = Persona()
+
+FIN
+@
+
+
